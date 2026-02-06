@@ -16,7 +16,7 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<p>Browse our latest products, changes from index.json, changes from the template</p>",
+            "text": "<p>Browse our latest products</p>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
@@ -54,10 +54,7 @@
           "blocks": {}
         }
       },
-      "block_order": [
-        "text_YLPk4p",
-        "button_H9gpTf"
-      ],
+      "block_order": ["text_YLPk4p", "button_H9gpTf"],
       "name": "t:names.hero",
       "settings": {
         "media_type_1": "image",
@@ -285,8 +282,5 @@
       }
     }
   },
-  "order": [
-    "hero_jVaWmY",
-    "product_list_fa6P9H"
-  ]
+  "order": ["hero_jVaWmY", "product_list_fa6P9H"]
 }
